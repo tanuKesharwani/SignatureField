@@ -1,6 +1,6 @@
-Download the Project
-just mvn clean 
-mvn clean install 
-I am using Jetty run server
-SO run mvn jetty:run
+step1.Download the Project
+step2.just mvn clean 
+step3.mvn clean install 
+step4.I am using Jetty run server
+step5.SO run mvn jetty:run
 Done-----HAPPY CONDING
